@@ -1,15 +1,43 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Updated Emotional Mnemonic Discrimination Task
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: "Morales-Calva"
-    given-names: "Fernanda"
-    orcid: "https://orcid.org/0000-0001-9699-7156"
- - family-names: "Castro"
-    given-names: "Madelyn"
-- family-names: "Leal"
-    given-names: "Stephanie L."
-    
-title: "Updated Emotional Mnemonic Discrimination Task"
-version: 1.0.0
-date-released: 2025-07-30
-url: "https://github.com/lealmemorylab/newEMDT"
+  - given-names: Fernanda
+    family-names: Morales-Calva
+    email: fernanda@rice.edu
+    affiliation: Rice University
+    orcid: 'https://orcid.org/0000-0001-9699-7156'
+  - given-names: Madelyn
+    family-names: Castro
+    email: mc151@rice.edu
+    affiliation: Rice University
+  - given-names: Stephanie
+    name-particle: L
+    family-names: Leal
+    affiliation: UCLA
+url: 'https://github.com/lealmemorylab/newEMDT'
+abstract: >-
+  This novel emotional mnemonic discrimination task is
+  designed to assess memory specificity and pattern
+  separation for emotionally salient and neutral stimuli.
+  The task has two parallel subsets: Subset A and Subset B
+  Both sets have been thoroughly balanced, piloted, and
+  matched for difficulty. Each subset includes trials
+  assessing participants’ ability to distinguish between
+  targets, lures, and foils across varying emotional
+  valences. Because Subsets A and B are equivalently
+  challenging and psychometrically matched, this task is
+  ideal for intervention studies or within-subjects/repeated
+  measures designs, as the alternate forms can help minimize
+  learning effects and reduce interference from prior
+  exposures. Each subset is designed to produce memory
+  performance patterns consistent with those observed in the
+  original Emotional Mnemonic Discrimination Task.
+keywords:
+  - MEMORY
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-07-30'
