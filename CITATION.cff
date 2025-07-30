@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Morales-Calva
+    given-names: Fernanda
+ - family-names: Castro
+    given-names: Madelyn
+- family-names: Leal
+    given-names: Stephanie L.
+    
+title: "Updated Emotional Mnemonic Discrimination Task"
+version: 1.0.0
+
+date-released: 2025-07-30
