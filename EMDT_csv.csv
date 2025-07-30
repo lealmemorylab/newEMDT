@@ -1,0 +1,454 @@
+﻿Image Name,Original name,Stimtype,Task,Sim_Category,Sim_Score,Valence_Category,Valence_Score,Arousal_Category,Arousal_Score,MEMORABILITY,ABBA Encoding Valence score,VALENCE_OVERALL,OVERALL_VALENCE_CATEGORY,Set
+1004_A_H,10018a.jpg,Baseline Lure,Encoding,High Similarity,4.640453989,Negative,2.333609445,Somewhat arousing,5.813441685,0.663457155,2.375168789,2.34469541,Negative,B
+1004_B_H,10018c.jpg,Lure,Retrieval,High Similarity,4.640453989,Negative,2.333609445,Somewhat arousing,5.813441685,0.628822803,,2.34469541,Negative,B
+1005_A_L,10019d.jpg,Baseline Lure,Encoding,Low Similarity,4.579568917,Negative,2.799353966,Somewhat arousing,5.780482701,0.796818137,2.886488971,2.87328489,Negative,A
+1005_B_L,10019f.jpg,Lure,Retrieval,Low Similarity,4.579568917,Negative,2.799353966,Somewhat arousing,5.780482701,0.789104164,,2.87328489,Negative,A
+1007_A_H,10023a.jpg,Baseline Lure,Encoding,High Similarity,4.718840006,Negative,2.287466867,Somewhat arousing,5.61151123,0.675794005,2.320992868,2.303118209,Negative,B
+1007_B_H,10023b.jpg,Lure,Retrieval,High Similarity,4.718840006,Negative,2.287466867,Somewhat arousing,5.61151123,0.68667841,,2.303118209,Negative,B
+1008_A_L,10025d.jpg,Baseline Lure,Encoding,Low Similarity,3.456239898,Negative,1.821350098,Very arousing,6.64239502,0.760003984,1.745190503,1.768182079,Negative,B
+1008_B_L,10025f.jpg,Lure,Retrieval,Low Similarity,3.456239898,Negative,1.821350098,Very arousing,6.64239502,0.940987825,,1.768182079,Negative,B
+1009_A_H,10026a.jpg,Baseline Lure,Encoding,High Similarity,4.984674944,Negative,3.294705861,Somewhat arousing,4.693332373,0.70193845,3.064140982,3.123167271,Negative,B
+1009_B_H,10026c.jpg,Lure,Retrieval,High Similarity,4.984674944,Negative,3.294705861,Somewhat arousing,4.693332373,0.731404841,,3.123167271,Negative,B
+1010_A_H,10027a.jpg,Baseline Lure,Encoding,High Similarity,5.498057774,Negative,3.51422091,Somewhat arousing,3.748753139,0.745868504,3.170934606,3.262015396,Negative,A
+1010_B_H,10027c.jpg,Lure,Retrieval,High Similarity,5.498057774,Negative,3.51422091,Somewhat arousing,3.748753139,0.834870458,,3.262015396,Negative,A
+1011_A_H,10029a.jpg,Baseline Lure,Encoding,High Similarity,5.091550555,Negative,2.750972062,Somewhat arousing,5.631731306,0.602109194,2.488385172,2.564311007,Negative,A
+1011_B_H,10029c.jpg,Lure,Retrieval,High Similarity,5.091550555,Negative,2.750972062,Somewhat arousing,5.631731306,0.605529189,,2.564311007,Negative,A
+306E,306E,Baseline Lure,Encoding,High Similarity,5.126953125,Negative,2.669989224,Somewhat arousing,6.880310059,0.709,,,,A
+306D,306D,Lure,Retrieval,High Similarity,5.126953125,Negative,2.669989224,,5.768790409,0.713,,,,A
+1017_A_H,10035a.jpg,Baseline Lure,Encoding,High Similarity,5.656515517,Negative,3.417994908,Somewhat arousing,3.943062356,0.844135642,3.262708333,3.283780171,Negative,A
+1017_B_H,10035c.jpg,Lure,Retrieval,High Similarity,5.656515517,Negative,3.417994908,Somewhat arousing,3.943062356,0.789908409,,3.283780171,Negative,A
+1024_A_H,10043a.jpg,Baseline Lure,Encoding,High Similarity,4.59891183,Negative,3.632749496,Somewhat arousing,4.143790109,0.710652888,3.56604456,3.577876072,Negative,A
+1024_B_H,10043c.jpg,Lure,Retrieval,High Similarity,4.59891183,Negative,3.632749496,Somewhat arousing,4.143790109,0.92650485,,3.577876072,Negative,A
+1026_A_L,10047a.jpg,Baseline Lure,Encoding,Low Similarity,4.29953692,Negative,3.554750504,Somewhat arousing,4.002720424,0.845687687,3.12046131,3.246799045,Negative,B
+1026_B_L,10047c.jpg,Lure,Retrieval,Low Similarity,4.29953692,Negative,3.554750504,Somewhat arousing,4.002720424,0.819871187,,3.246799045,Negative,B
+351A.jpg,351A.jpg,Baseline Lure,Encoding,Low Similarity,4.51370555,Negative,3.655037716,Somewhat arousing,4.341325431,0.774,,,,A
+351B.jpg,351B.jpg,Lure,Retrieval,Low Similarity,4.51370555,Negative,4.655037716,Somewhat arousing,5.341325431,0.759,,,,A
+359a.jpg,359a.jpg,Baseline Lure,Encoding,High Similarity,5.021972656,Negative,2.501144935,Somewhat arousing,5.265066964,0.786,,,,A
+359B.jpg,359B.jpg,Lure,Retrieval,High Similarity,5.021972656,Negative,3.501144935,Somewhat arousing,6.265066964,0.819,,,,A
+320D.jpg,320D.jpg,Baseline Lure,Encoding,Low Similarity,4.154313712,Negative,3.934100116,Somewhat arousing,5.332367996,0.906,,,,A
+320F.jpg,320F.jpg,Lure,Retrieval,Low Similarity,4.154313712,Negative,4.934100116,Somewhat arousing,6.332367996,0.875,,,,A
+1055_A_H,347A.jpg,Baseline Lure,Encoding,High Similarity,4.717773438,Negative,1.609172953,Very arousing,7.259900323,0.900267243,2.272093798,2.082675971,Negative,A
+1055_B_L,347B.jpg,Lure,Retrieval,High Similarity,4.717773438,Negative,1.609172953,Very arousing,7.259900323,0.683344424,,2.082675971,Negative,A
+2001_A_L,10021a.jpg,Baseline Lure,Encoding,Low Similarity,4.47114999,Neutral,4.5234375,Not arousing,2.955871582,0.821299911,3.775280632,3.997617102,Negative,A
+2001_B_L,10021c.jpg,Lure,Retrieval,Low Similarity,4.47114999,Neutral,4.5234375,Not arousing,2.955871582,0.689959884,,3.997617102,Negative,A
+2002_A_H,10024a.jpg,Baseline Lure,Encoding,High Similarity,4.846960885,Neutral,4.463140779,Somewhat arousing,5.257847377,0.916022182,3.713541667,3.939424407,Negative,B
+2002_B_H,10024c.jpg,Lure,Retrieval,High Similarity,4.846960885,Neutral,4.463140779,Somewhat arousing,5.257847377,0.822508097,,3.939424407,Negative,B
+2003_A_H,10028a.jpg,Baseline Lure,Encoding,High Similarity,4.657747541,Neutral,4.306668527,Somewhat arousing,3.622070313,0.918781877,4.679186228,4.555021391,Neutral,A
+2003_B_H,10028b.jpg,Lure,Retrieval,High Similarity,4.657747541,Neutral,4.306668527,Somewhat arousing,3.622070313,0.903097808,,4.555021391,Neutral,A
+2004_A_H,10046a.jpg,Baseline Lure,Encoding,High Similarity,4.911113194,Neutral,4.084353399,Somewhat arousing,4.946001325,0.776099622,3.383704668,3.585226278,Negative,A
+2004_B_H,10046b.jpg,Lure,Retrieval,High Similarity,4.911113194,Neutral,4.084353399,Somewhat arousing,4.946001325,0.80997014,,3.585226278,Negative,A
+2006_A_L,128D.jpg,Baseline Lure,Encoding,Low Similarity,4.027023842,Neutral,5.824690194,Somewhat arousing,3.671538254,0.791145563,6.378912363,6.214914656,Positive,B
+2006_B_L,128F.jpg,Lure,Retrieval,Low Similarity,4.027023842,Neutral,5.824690194,Somewhat arousing,3.671538254,0.769585788,,6.214914656,Positive,B
+2011_A_L,20020a.jpg,Baseline Lure,Encoding,Low Similarity,3.854228428,Neutral,4.636979767,Not arousing,2.562473842,0.779321074,4.484230324,4.530203457,Neutral,B
+2011_B_L,20020b.jpg,Lure,Retrieval,Low Similarity,3.854228428,Neutral,4.636979767,Not arousing,2.562473842,0.773274302,,4.530203457,Neutral,B
+2014_A_H,20024a.jpg,Baseline Lure,Encoding,High Similarity,4.934759325,Neutral,5.040169571,Not arousing,1.957868304,0.902919292,5.056071697,5.051376783,Neutral,A
+2014_B_H,20024b.jpg,Lure,Retrieval,High Similarity,4.934759325,Neutral,5.040169571,Not arousing,1.957868304,0.856999636,,5.051376783,Neutral,A
+2015_A_L,20025a.jpg,Baseline Lure,Encoding,Low Similarity,4.018575614,Neutral,4.921019945,Not arousing,2.58694022,0.913636386,5.044945988,5.007647858,Neutral,A
+2015_B_L,20025b.jpg,Lure,Retrieval,Low Similarity,4.018575614,Neutral,4.921019945,Not arousing,2.58694022,0.908227563,,5.007647858,Neutral,A
+235A.jpg,235A.jpg,Baseline Lure,Encoding,Low Similarity,4.253064386,Neutral,5.027488426,Somewhat arousing,3.464237608,0.761,,,,B
+235B.jpg,235B.jpg,Lure,Retrieval,Low Similarity,4.253064386,Neutral,5.027488426,Somewhat arousing,3.464237608,0.717,,,,B
+2018_A_L,20028a.jpg,Baseline Lure,Encoding,Low Similarity,2.733809989,Neutral,5.022627448,Not arousing,1.722377232,0.886150658,5.076951952,5.06133206,Neutral,B
+2018_B_L,20028b.jpg,Lure,Retrieval,Low Similarity,2.733809989,Neutral,5.022627448,Not arousing,1.722377232,0.879079401,,5.06133206,Neutral,B
+2019_A_L,20029a.jpg,Baseline Lure,Encoding,Low Similarity,3.880602155,Neutral,4.604920336,Somewhat arousing,3.165919713,0.765757799,4.495133998,4.529646978,Neutral,B
+2019_B_L,20029b.jpg,Lure,Retrieval,Low Similarity,3.880602155,Neutral,4.604920336,Somewhat arousing,3.165919713,0.893167794,,4.529646978,Neutral,B
+20022a.jpg,20022a.jpg,Baseline Lure,Encoding,High Similarity,5.125451224,Neutral,4.928152902,Not arousing,2.227015904,0.758,,,,B
+20022b.jpg,20022b.jpg,Lure,Retrieval,High Similarity,5.125451224,Neutral,5.928152902,Not arousing,3.227015904,0.672,,,,B
+2021_A_H,20032a.jpg,Baseline Lure,Encoding,High Similarity,4.905829293,Neutral,5.10420445,Not arousing,1.884748186,0.891977072,5.374421296,5.287861904,Neutral,B
+2021_B_H,20032c.jpg,Lure,Retrieval,High Similarity,4.905829293,Neutral,5.10420445,Not arousing,1.884748186,0.799497008,,5.287861904,Neutral,B
+2022_A_L,20033a.jpg,Baseline Lure,Encoding,Low Similarity,4.531738281,Neutral,5.469254032,Not arousing,2.49874442,0.825947285,5.705532407,5.636044974,Neutral,A
+2022_B_L,20033c.jpg,Lure,Retrieval,Low Similarity,4.531738281,Neutral,5.469254032,Not arousing,2.49874442,0.706585824,,5.636044974,Neutral,A
+2024_A_L,20037a.jpg,Baseline Lure,Encoding,Low Similarity,4.19127982,Neutral,4.545425907,Not arousing,2.53163365,0.676663578,4.277247299,4.367836414,Neutral,A
+2024_B_L,20037b.jpg,Lure,Retrieval,Low Similarity,4.19127982,Neutral,4.545425907,Not arousing,2.53163365,0.705702007,,4.367836414,Neutral,A
+2026_A_H,20039a.jpg,Baseline Lure,Encoding,High Similarity,4.840578352,Neutral,5.399117606,Not arousing,2.74005127,0.821679056,5.601007909,5.538887816,Neutral,A
+2026_B_H,20039c.jpg,Lure,Retrieval,High Similarity,4.840578352,Neutral,5.399117606,Not arousing,2.74005127,0.861656547,,5.538887816,Neutral,A
+2027_A_H,20041a.jpg,Baseline Lure,Encoding,High Similarity,4.748383621,Neutral,5.216058828,Not arousing,2.270438058,0.9015342,5.182148973,5.192256718,Neutral,B
+2027_B_H,20041c.jpg,Lure,Retrieval,High Similarity,4.748383621,Neutral,5.216058828,Not arousing,2.270438058,0.886041284,,5.192256718,Neutral,B
+2028_A_L,20042a.jpg,Baseline Lure,Encoding,Low Similarity,4.475594938,Neutral,5.160509673,Not arousing,2.790988623,0.730688274,5.319591158,5.265340402,Neutral,B
+2028_B_L,20042c.jpg,Lure,Retrieval,Low Similarity,4.475594938,Neutral,5.160509673,Not arousing,2.790988623,0.640820801,,5.265340402,Neutral,B
+2029_A_L,20043a.jpg,Baseline Lure,Encoding,Low Similarity,3.709771293,Neutral,5.086922782,Not arousing,1.990574428,0.851102114,5.130912162,5.119000673,Neutral,B
+2029_B_L,20043b.jpg,Lure,Retrieval,Low Similarity,3.709771293,Neutral,5.086922782,Not arousing,1.990574428,0.78740412,,5.119000673,Neutral,B
+2030_A_H,20044a.jpg,Baseline Lure,Encoding,High Similarity,4.655635289,Neutral,4.910548619,Not arousing,2.451625279,0.578129113,5.424596471,5.269412214,Neutral,A
+2030_B_H,20044c.jpg,Lure,Retrieval,High Similarity,4.655635289,Neutral,4.910548619,Not arousing,2.451625279,0.847205877,,5.269412214,Neutral,A
+2031_A_H,20045a.jpg,Baseline Lure,Encoding,High Similarity,4.633969988,Neutral,5.400849654,Somewhat arousing,3.356183733,0.956764281,5.68433277,5.597231761,Neutral,B
+2031_B_H,20045c.jpg,Lure,Retrieval,High Similarity,4.633969988,Neutral,5.400849654,Somewhat arousing,3.356183733,0.906286716,,5.597231761,Neutral,B
+2032_A_H,20047a.jpg,Baseline Lure,Encoding,High Similarity,4.994852602,Neutral,5.633972168,Somewhat arousing,3.246442522,0.624082386,5.889915884,5.827110141,Neutral,A
+2032_B_H,20047c.jpg,Lure,Retrieval,High Similarity,4.994852602,Neutral,5.633972168,Somewhat arousing,3.246442522,0.691603661,,5.827110141,Neutral,A
+2043_A_H,216D.jpg,Baseline Lure,Encoding,High Similarity,4.580322266,Neutral,5.992456897,Somewhat arousing,4.620824353,0.716484547,6.67075723,6.482120584,Positive,A
+2043_B_H,216E.jpg,Lure,Retrieval,High Similarity,4.580322266,Neutral,5.992456897,Somewhat arousing,4.620824353,0.806604505,,6.482120584,Positive,A
+2056_A_L,30030d.jpg,Baseline Lure,Encoding,Low Similarity,3.894727434,Neutral,5.380650112,Somewhat arousing,3.702174595,0.743557632,5.981972983,5.796376583,Neutral,A
+2056_B_L,30030f.jpg,Lure,Retrieval,Low Similarity,3.894727434,Neutral,5.380650112,Somewhat arousing,3.702174595,0.781027734,,5.796376583,Neutral,A
+2057_A_L,30040d.jpg,Baseline Lure,Encoding,Low Similarity,3.768505859,Neutral,5.813624791,Somewhat arousing,3.702505929,0.793135285,6.052939498,5.969313103,Neutral,A
+2057_B_L,30040f.jpg,Lure,Retrieval,Low Similarity,3.768505859,Neutral,5.813624791,Somewhat arousing,3.702505929,0.74351567,,5.969313103,Neutral,A
+2058_A_L,322D.jpg,Baseline Lure,Encoding,Low Similarity,3.740774972,Neutral,4.16078404,Somewhat arousing,5.427943638,0.856901288,4.099580224,4.115236636,Neutral,A
+2058_B_L,322F.jpg,Lure,Retrieval,Low Similarity,3.740774972,Neutral,4.16078404,Somewhat arousing,5.427943638,0.736504018,,4.115236636,Neutral,A
+2059_A_L,,Baseline Lure,Encoding,Low Similarity,4.564975081,Neutral,4.155960648,Somewhat arousing,4.229189116,0.865046442,4.434785798,4.328293789,Neutral,B
+2059_B_L,325E.jpg,Lure,Retrieval,Low Similarity,4.564975081,Neutral,4.155960648,Somewhat arousing,4.229189116,0.848622859,,4.328293789,Neutral,B
+3002_A_L,104D.jpg,Baseline Lure,Encoding,Low Similarity,3.968804253,Positive,7.396334135,Somewhat arousing,5.431573276,0.443097651,7.77375,7.665628404,Positive,B
+3002_B_L,104E.jpg,Lure,Retrieval,Low Similarity,3.968804253,Positive,7.396334135,Somewhat arousing,5.431573276,0.460292906,,7.665628404,Positive,B
+3007_A_H,109D.jpg,Baseline Lure,Encoding,High Similarity,5.053424704,Positive,6.649043642,Somewhat arousing,4.675040409,0.831228793,7.115610329,6.96860604,Positive,A
+3007_B_H,109F.jpg,Lure,Retrieval,High Similarity,5.053424704,Positive,6.649043642,Somewhat arousing,4.675040409,0.872273028,,6.96860604,Positive,A
+3012_A_H,119D.jpg,Baseline Lure,Encoding,High Similarity,4.785888672,Positive,7.119140625,Somewhat arousing,5.183526401,0.648948073,6.966427365,6.99681432,Positive,B
+3012_B_H,119E.jpg,Lure,Retrieval,High Similarity,4.785888672,Positive,7.119140625,Somewhat arousing,5.183526401,0.724329412,,6.99681432,Positive,B
+3014_A_L,122D.jpg,Baseline Lure,Encoding,Low Similarity,4.449462891,Positive,6.73747306,Somewhat arousing,5.523504849,0.680491745,7.21993152,7.093550007,Positive,B
+3014_B_L,122F.jpg,Lure,Retrieval,Low Similarity,4.449462891,Positive,6.73747306,Somewhat arousing,5.523504849,0.792940259,,7.093550007,Positive,B
+3015_A_L,123D.jpg,Baseline Lure,Encoding,Low Similarity,3.900444878,Positive,6.539713542,Somewhat arousing,4.756532866,0.753109038,7.010275901,6.892729184,Positive,A
+3015_B_L,123E.jpg,Lure,Retrieval,Low Similarity,3.900444878,Positive,6.539713542,Somewhat arousing,4.756532866,0.798033416,,6.892729184,Positive,A
+3016_A_H,124D.jpg,Baseline Lure,Encoding,High Similarity,5.432128906,Positive,7.643790409,Somewhat arousing,5.72265625,0.666534364,7.601388889,7.617828208,Positive,B
+3016_B_H,124E.jpg,Lure,Retrieval,High Similarity,5.432128906,Positive,7.643790409,Somewhat arousing,5.72265625,0.838124335,,7.617828208,Positive,B
+3032_A_H,223D.jpg,Baseline Lure,Encoding,High Similarity,5.017822266,Positive,6.471915409,Somewhat arousing,5.441473599,0.625764847,7.429928627,7.130527471,Positive,A
+3032_B_H,223E.jpg,Lure,Retrieval,High Similarity,5.017822266,Positive,6.471915409,Somewhat arousing,5.441473599,0.747072935,,7.130527471,Positive,A
+3033_A_L,234A.jpg,Baseline Lure,Encoding,Low Similarity,4.569335938,Positive,6.253030711,Somewhat arousing,4.398572198,0.809331834,6.459533292,6.393164948,Positive,B
+3033_B_L,234B.jpg,Lure,Retrieval,Low Similarity,4.569335938,Positive,6.253030711,Somewhat arousing,4.398572198,0.868253052,,6.393164948,Positive,B
+3034_A_L,236A.jpg,Baseline Lure,Encoding,Low Similarity,4.005808863,Positive,6.208445582,Somewhat arousing,5.389614763,0.742522538,6.246155754,6.242050781,Positive,B
+3034_B_L,236B.jpg,Lure,Retrieval,Low Similarity,4.005808863,Positive,6.208445582,Somewhat arousing,5.389614763,0.781009853,,6.242050781,Positive,B
+3036_A_H,30004d.jpg,Baseline Lure,Encoding,High Similarity,4.899457358,Positive,6.458007813,Somewhat arousing,4.484026228,0.82869792,6.558134921,6.52817313,Positive,B
+3036_B_H,30004f.jpg,Lure,Retrieval,High Similarity,4.899457358,Positive,6.458007813,Somewhat arousing,4.484026228,0.780858696,,6.52817313,Positive,B
+3037_A_H,30006d.jpg,Baseline Lure,Encoding,High Similarity,5.476202829,Positive,7.240094866,Somewhat arousing,5.641545759,0.778924406,7.644239916,7.523695055,Positive,A
+3037_B_H,30006f.jpg,Lure,Retrieval,High Similarity,5.476202829,Positive,7.240094866,Somewhat arousing,5.641545759,0.847158134,,7.523695055,Positive,A
+3039_A_H,30013d.jpg,Baseline Lure,Encoding,High Similarity,5.155032672,Positive,6.609019012,Somewhat arousing,4.595624651,0.829501152,6.474920233,6.5126762,Positive,A
+3039_B_H,30013f.jpg,Lure,Retrieval,High Similarity,5.155032672,Positive,6.609019012,Somewhat arousing,4.595624651,0.7631675,,6.5126762,Positive,A
+3042_A_L,30018a.jpg,Baseline Lure,Encoding,Low Similarity,4.470493862,Positive,7.019095285,Somewhat arousing,4.827549526,0.760266006,7.469078453,7.333234478,Positive,B
+3042_B_L,30018b.jpg,Lure,Retrieval,Low Similarity,4.470493862,Positive,7.019095285,Somewhat arousing,4.827549526,0.608227968,,7.333234478,Positive,B
+3045_A_L,30022a.jpg,Baseline Lure,Encoding,Low Similarity,4.367558071,Positive,6.66066197,Somewhat arousing,4.522294427,0.787792563,7.075138889,6.949772691,Positive,A
+3045_B_L,30022b.jpg,Lure,Retrieval,Low Similarity,4.367558071,Positive,6.66066197,Somewhat arousing,4.522294427,0.781508267,,6.949772691,Positive,A
+3046_A_H,30023d.jpg,Baseline Lure,Encoding,High Similarity,5.316946847,Positive,7.252061132,Somewhat arousing,5.320591518,0.845187545,7.205277778,7.218959702,Positive,A
+3046_B_H,30023f.jpg,Lure,Retrieval,High Similarity,5.316946847,Positive,7.252061132,Somewhat arousing,5.320591518,0.80253768,,7.218959702,Positive,A
+3047_A_H,30024d.jpg,Baseline Lure,Encoding,High Similarity,5.16822597,Positive,7.557617188,Somewhat arousing,5.910948301,0.755364537,7.454251126,7.487301587,Positive,B
+3047_B_H,30024e.jpg,Lure,Retrieval,High Similarity,5.16822597,Positive,7.557617188,Somewhat arousing,5.910948301,0.759469867,,7.487301587,Positive,B
+3048_A_L,30025a.jpg,Baseline Lure,Encoding,Low Similarity,3.751260081,Positive,6.546561105,Somewhat arousing,4.423601423,0.686727822,6.454763302,6.483016992,Positive,B
+3048_B_L,30025b.jpg,Lure,Retrieval,Low Similarity,3.751260081,Positive,6.546561105,Somewhat arousing,4.423601423,0.635706067,,6.483016992,Positive,B
+3052_A_H,30032a.jpg,Baseline Lure,Encoding,High Similarity,4.861060006,Positive,6.898960658,Somewhat arousing,4.78364781,0.742099226,7.25349537,7.147466298,Positive,B
+3052_B_H,30032b.jpg,Lure,Retrieval,High Similarity,4.861060006,Positive,6.898960658,Somewhat arousing,4.78364781,0.78078419,,7.147466298,Positive,B
+3054_A_H,30034a.jpg,Baseline Lure,Encoding,High Similarity,4.913166591,Positive,6.09405602,Somewhat arousing,4.914332799,0.775397837,6.434166667,6.313102915,Positive,A
+3054_B_H,30034b.jpg,Lure,Retrieval,High Similarity,4.913166591,Positive,6.09405602,Somewhat arousing,4.914332799,0.766486049,,6.313102915,Positive,A
+3055_A_L,30035a.jpg,Baseline Lure,Encoding,Low Similarity,4.195079259,Positive,6.416974749,Somewhat arousing,4.034336635,0.778237045,6.674103791,6.597630267,Positive,A
+3055_B_L,30035b.jpg,Lure,Retrieval,Low Similarity,4.195079259,Positive,6.416974749,Somewhat arousing,4.034336635,0.76250422,,6.597630267,Positive,A
+3057_A_H,30038a.jpg,Baseline Lure,Encoding,High Similarity,4.605064174,Positive,6.578366815,Somewhat arousing,5.050493513,0.790175557,6.306978202,6.384199302,Positive,A
+3057_B_H,30038c.jpg,Lure,Retrieval,High Similarity,4.605064174,Positive,6.578366815,Somewhat arousing,5.050493513,0.735757232,,6.384199302,Positive,A
+3058_A_H,30039a.jpg,Baseline Lure,Encoding,High Similarity,4.617359706,Positive,7.095532114,Somewhat arousing,4.796145953,0.861081898,7.196037861,7.169832481,Positive,A
+3058_B_H,30039c.jpg,Lure,Retrieval,High Similarity,4.617359706,Positive,7.095532114,Somewhat arousing,4.796145953,0.894161642,,7.169832481,Positive,A
+366A.jpg,366A.jpg,Baseline Lure,Encoding,Low Similarity,3.590087891,Negative,3.254983836,Somewhat arousing,5.033809267,0.803,,,,A
+366B.jpg,366B.jpg,Lure,Retrieval,Low Similarity,3.590087891,Negative,4.254983836,Somewhat arousing,6.033809267,0.695,,,,A
+1002_A_H,10016d.jpg,Baseline Lure,Encoding,High Similarity,4.884515859,Negative,2.66796875,Somewhat arousing,5.137581962,0.755430758,2.434654707,2.506443643,Negative,B
+1002_B_H,10016e.jpg,Lure,Retrieval,High Similarity,4.884515859,Negative,2.66796875,Somewhat arousing,5.137581962,0.675741434,,2.506443643,Negative,B
+1003_A_L,10017d.jpg,Baseline Lure,Encoding,Low Similarity,4.135331411,Negative,2.637442453,Somewhat arousing,5.761492048,0.865789354,2.651412037,2.647234217,Negative,A
+1003_B_L,10017f.jpg,Lure,Retrieval,Low Similarity,4.135331411,Negative,2.637442453,Somewhat arousing,5.761492048,0.934129477,,2.647234217,Negative,A
+1014_A_L,10032a.jpg,Baseline Lure,Encoding,Low Similarity,3.758928571,Negative,2.780016921,Somewhat arousing,5.190455845,0.90058589,2.513680556,2.591571379,Negative,A
+1014_B_L,10032b.jpg,Lure,Retrieval,Low Similarity,3.758928571,Negative,2.780016921,Somewhat arousing,5.190455845,0.937678516,,2.591571379,Negative,A
+1021_A_L,10039a.jpg,Baseline Lure,Encoding,Low Similarity,4.547315325,Negative,3.232683454,Somewhat arousing,4.132629395,0.854265332,2.772810571,2.91430992,Negative,B
+1021_B_L,10039b.jpg,Lure,Retrieval,Low Similarity,4.547315325,Negative,3.232683454,Somewhat arousing,4.132629395,0.734217107,,2.91430992,Negative,B
+1025_A_L,10044a.jpg,Baseline Lure,Encoding,Low Similarity,3.844432286,Negative,3.395438058,Somewhat arousing,5.395603725,0.770214796,3.027516172,3.139644747,Negative,B
+1025_B_L,10044b.jpg,Lure,Retrieval,Low Similarity,3.844432286,Negative,3.395438058,Somewhat arousing,5.395603725,0.938408256,,3.139644747,Negative,B
+1027_A_H,10049d.jpg,Baseline Lure,Encoding,High Similarity,4.655531529,Negative,3.787172379,Somewhat arousing,4.601640974,0.765017152,3.41950313,3.531245745,Negative,B
+1027_B_H,10049e.jpg,Lure,Retrieval,High Similarity,4.655531529,Negative,3.787172379,Somewhat arousing,4.601640974,0.678100824,,3.531245745,Negative,B
+1030_A_H,302D.jpg,Baseline Lure,Encoding,High Similarity,4.764749461,Negative,2.084735577,Somewhat arousing,5.946794181,0.883009493,2.778997748,2.600100848,Negative,B
+1030_B_H,302E.jpg,Lure,Retrieval,High Similarity,4.764749461,Negative,2.084735577,Somewhat arousing,5.946794181,0.821645975,,2.600100848,Negative,B
+1031_A_H,303D.jpg,Baseline Lure,Encoding,High Similarity,5.205880301,Negative,2.899414063,Somewhat arousing,5.07657597,0.862445951,3.405100413,3.283249932,Negative,B
+1031_B_H,303E.jpg,Lure,Retrieval,High Similarity,5.205880301,Negative,2.899414063,Somewhat arousing,5.07657597,0.882104456,,3.283249932,Negative,B
+1032_A_H,304D.jpg,Baseline Lure,Encoding,High Similarity,5.418439593,Negative,3.973733836,Somewhat arousing,4.788523707,0.862836182,4.246836948,4.178218483,Neutral,B
+1032_B_H,304E.jpg,Lure,Retrieval,High Similarity,5.418439593,Negative,3.973733836,Somewhat arousing,4.788523707,0.881070495,,4.178218483,Neutral,B
+1033_A_H,307D.jpg,Baseline Lure,Encoding,High Similarity,4.980957031,Negative,2.603724888,Somewhat arousing,5.497710129,0.845530152,2.783009572,2.748735477,Negative,A
+1033_B_H,307E.jpg,Lure,Retrieval,High Similarity,4.980957031,Negative,2.603724888,Somewhat arousing,5.497710129,0.895175397,,2.748735477,Negative,A
+1034_A_H,308D.jpg,Baseline Lure,Encoding,High Similarity,4.995849609,Negative,3.697916667,Somewhat arousing,5.160590278,0.869969904,4.67111698,4.414832899,Neutral,B
+1034_B_H,308F.jpg,Lure,Retrieval,High Similarity,4.995849609,Negative,3.697916667,Somewhat arousing,5.160590278,0.848035455,,4.414832899,Neutral,B
+1035_A_H,310D.jpg,Baseline Lure,Encoding,High Similarity,4.856445313,Negative,2.240705819,Somewhat arousing,5.736664871,0.891866088,3.268229167,2.973206159,Negative,B
+1035_B_H,310E.jpg,Lure,Retrieval,High Similarity,4.856445313,Negative,2.240705819,Somewhat arousing,5.736664871,0.848432302,,2.973206159,Negative,B
+1038_A_H,313D.jpg,Baseline Lure,Encoding,High Similarity,5.080953664,Negative,2.734157986,Somewhat arousing,5.697916667,0.852140188,3.318118248,3.155865391,Negative,A
+1038_B_H,313E.jpg,Lure,Retrieval,High Similarity,5.080953664,Negative,2.734157986,Somewhat arousing,5.697916667,0.825250745,,3.155865391,Negative,A
+1040_A_H,316D.jpg,Baseline Lure,Encoding,High Similarity,4.603515625,Negative,3.437848772,Somewhat arousing,4.530913254,0.745406628,4.174633752,3.977854049,Negative,B
+1040_B_H,316E.jpg,Lure,Retrieval,High Similarity,4.603515625,Negative,3.437848772,Somewhat arousing,4.530913254,0.792107463,,3.977854049,Negative,B
+1041_A_L,317D.jpg,Baseline Lure,Encoding,Low Similarity,4.375705295,Negative,3.017717634,Somewhat arousing,4.426269531,0.709033787,3.29119102,3.236850644,Negative,B
+1041_B_L,317F.jpg,Lure,Retrieval,Low Similarity,4.375705295,Negative,3.017717634,Somewhat arousing,4.426269531,0.62025702,,3.236850644,Negative,B
+1042_A_H,318D.jpg,Baseline Lure,Encoding,High Similarity,5.194580078,Negative,2.089564732,Somewhat arousing,5.508822737,0.751959085,2.810646584,2.623681223,Negative,A
+1042_B_H,318E.jpg,Lure,Retrieval,High Similarity,5.194580078,Negative,2.089564732,Somewhat arousing,5.508822737,0.801841855,,2.623681223,Negative,A
+1046_A_L,327D.jpg,Baseline Lure,Encoding,Low Similarity,4.537109375,Negative,3.772670201,Somewhat arousing,4.755859375,0.882402718,4.044535024,3.953999632,Negative,B
+1046_B_L,327F.jpg,Lure,Retrieval,Low Similarity,4.537109375,Negative,3.772670201,Somewhat arousing,4.755859375,0.834019899,,3.953999632,Negative,B
+1049_A_H,336A.jpg,Baseline Lure,Encoding,High Similarity,4.735351563,Negative,3.763382523,Somewhat arousing,5.231007543,0.875457764,4.171995563,4.05237555,Neutral,A
+1049_B_H,336B.jpg,Lure,Retrieval,High Similarity,4.735351563,Negative,3.763382523,Somewhat arousing,5.231007543,0.753347218,,4.05237555,Neutral,A
+1054_A_L,343A.jpg,Baseline Lure,Encoding,High Similarity,5.039028825,Negative,2.557091346,Somewhat arousing,5.980940194,0.867986619,3.286815068,3.119836788,Negative,A
+1054_B_L,343B.jpg,Lure,Retrieval,High Similarity,5.039028825,Negative,2.557091346,Somewhat arousing,5.980940194,0.860762,,3.119836788,Negative,A
+1057_A_H,355A.jpg,Baseline Lure,Encoding,High Similarity,4.797329607,Negative,2.354795259,Somewhat arousing,5.38591056,0.604370177,2.997907154,2.808814937,Negative,A
+1057_B_H,355B.jpg,Lure,Retrieval,High Similarity,4.797329607,Negative,2.354795259,Somewhat arousing,5.38591056,0.628285408,,2.808814937,Negative,A
+1059_A_H,357A.jpg,Baseline Lure,Encoding,High Similarity,5.414331897,Negative,3.025739397,Somewhat arousing,5.209792565,0.931110144,3.540329392,3.383094201,Negative,B
+1059_B_H,357B.jpg,Lure,Retrieval,High Similarity,5.414331897,Negative,3.025739397,Somewhat arousing,5.209792565,0.920680165,,3.383094201,Negative,B
+1060_A_L,367A.jpg,Baseline Lure,Encoding,Low Similarity,4.548095703,Negative,2.829644097,Somewhat arousing,5.505926724,0.767931402,3.157558029,3.095681849,Negative,A
+1060_B_L,367B.jpg,Lure,Retrieval,Low Similarity,4.548095703,Negative,2.829644097,Somewhat arousing,5.505926724,0.908187091,,3.095681849,Negative,A
+2005_A_H,114D.jpg,Baseline Lure,Encoding,High Similarity,4.713378906,Neutral,5.286096644,Somewhat arousing,3.602303341,0.747053683,5.58675733,5.525897707,Neutral,A
+2005_B_H,114E.jpg,Lure,Retrieval,High Similarity,4.713378906,Neutral,5.286096644,Somewhat arousing,3.602303341,0.750119746,,5.525897707,Neutral,A
+2007_A_L,129D.jpg,Baseline Lure,Encoding,Low Similarity,4.088675363,Neutral,5.531475361,Somewhat arousing,3.835331358,0.742851853,6.150797144,5.978412598,Neutral,B
+2007_B_L,129E.jpg,Lure,Retrieval,Low Similarity,4.088675363,Neutral,5.531475361,Somewhat arousing,3.835331358,0.765883386,,5.978412598,Neutral,B
+2008_A_H,133A.jpg,Baseline Lure,Encoding,High Similarity,4.689697266,Neutral,5.91325431,Somewhat arousing,3.430428341,0.85604918,6.256296296,6.159562533,Positive,B
+2008_B_H,133B.jpg,Lure,Retrieval,High Similarity,4.689697266,Neutral,5.91325431,Somewhat arousing,3.430428341,0.899868488,,6.159562533,Positive,B
+2009_A_L,145A.jpg,Baseline Lure,Encoding,Low Similarity,3.404465248,Neutral,5.672293527,Somewhat arousing,4.246161099,0.732944548,5.862847222,5.817979601,Neutral,B
+2009_B_L,145B.jpg,Lure,Retrieval,Low Similarity,3.404465248,Neutral,5.672293527,Somewhat arousing,4.246161099,0.804417133,,5.817979601,Neutral,B
+2010_A_L,158A.jpg,Baseline Lure,Encoding,Low Similarity,4.571777344,Neutral,5.521955819,Somewhat arousing,3.797750539,0.886885643,5.327329282,5.388381119,Neutral,A
+2010_B_L,158B.jpg,Lure,Retrieval,Low Similarity,4.571777344,Neutral,5.521955819,Somewhat arousing,3.797750539,0.805564642,,5.388381119,Neutral,A
+2012_A_L,20021a.jpg,Baseline Lure,Encoding,Low Similarity,4.57421875,Neutral,5.50037493,Not arousing,2.396519252,0.875382662,5.867104262,5.755339132,Neutral,A
+2012_B_L,20021b.jpg,Lure,Retrieval,Low Similarity,4.57421875,Neutral,5.50037493,Not arousing,2.396519252,0.919255972,,5.755339132,Neutral,A
+2013_A_L,20023d.jpg,Baseline Lure,Encoding,Low Similarity,4.50987773,Neutral,5.440909249,Not arousing,2.515101842,0.776164293,5.502402017,5.483661364,Neutral,A
+2013_B_L,20023e.jpg,Lure,Retrieval,Low Similarity,4.50987773,Neutral,5.440909249,Not arousing,2.515101842,0.875672579,,5.483661364,Neutral,A
+2016_A_L,20026a.jpg,Baseline Lure,Encoding,Low Similarity,4.293485369,Neutral,4.205086844,Not arousing,2.856323242,0.51834029,4.482734018,4.398117737,Neutral,A
+2016_B_L,20026b.jpg,Lure,Retrieval,Low Similarity,4.293485369,Neutral,4.205086844,Not arousing,2.856323242,0.571114004,,4.398117737,Neutral,A
+2023_A_H,20036d.jpg,Baseline Lure,Encoding,High Similarity,4.670597621,Neutral,5.93062356,Not arousing,2.941685268,0.826066613,6.172065259,6.10009706,Positive,B
+2023_B_H,20036e.jpg,Lure,Retrieval,High Similarity,4.670597621,Neutral,5.93062356,Not arousing,2.941685268,0.686100423,,6.10009706,Positive,B
+20019a.jpg,20019a.jpg,Baseline Lure,Encoding,Low Similarity,4.074550084,Neutral,5.210732887,Not arousing,2.405011858,0.883,,,,B
+20019c.jpg,20019c.jpg,Lure,Retrieval,Low Similarity,4.074550084,Neutral,6.210732887,Not arousing,3.405011858,0.751,,,,B
+2035_A_L,203D.jpg,Baseline Lure,Encoding,Low Similarity,4.532836914,Neutral,4.505320582,Not arousing,2.265490302,0.862667739,5.14353482,4.96099069,Neutral,B
+2035_B_L,203E.jpg,Lure,Retrieval,Low Similarity,4.532836914,Neutral,4.505320582,Not arousing,2.265490302,0.847250283,,4.96099069,Neutral,B
+2036_A_L,204D.jpg,Baseline Lure,Encoding,Low Similarity,4.373779297,Neutral,5.241446659,Not arousing,2.635102371,0.916329503,5.698943662,5.561963848,Neutral,A
+2036_B_L,204E.jpg,Lure,Retrieval,Low Similarity,4.373779297,Neutral,5.241446659,Not arousing,2.635102371,0.877383471,,5.561963848,Neutral,A
+2037_A_L,205D.jpg,Baseline Lure,Encoding,Low Similarity,4.273873465,Neutral,5.435836227,Somewhat arousing,4.351023707,0.756445646,5.947893206,5.805353435,Neutral,B
+2037_B_L,205F.jpg,Lure,Retrieval,Low Similarity,4.273873465,Neutral,5.435836227,Somewhat arousing,4.351023707,0.775499046,,5.805353435,Neutral,B
+2038_A_L,207D.jpg,Baseline Lure,Encoding,Low Similarity,4.262156519,Neutral,5.423270089,Somewhat arousing,3.167025862,0.919868052,5.350624062,5.375834669,Neutral,A
+2038_B_L,207F.jpg,Lure,Retrieval,Low Similarity,4.262156519,Neutral,5.423270089,Somewhat arousing,3.167025862,0.759138107,,5.375834669,Neutral,A
+2039_A_H,209D.jpg,Baseline Lure,Encoding,High Similarity,5.542632004,Neutral,4.551307091,Somewhat arousing,3.038995151,0.794303596,4.798880086,4.730821672,Neutral,B
+2039_B_H,209E.jpg,Lure,Retrieval,High Similarity,5.542632004,Neutral,4.551307091,Somewhat arousing,3.038995151,0.869806588,,4.730821672,Neutral,B
+2040_A_H,212D.jpg,Baseline Lure,Encoding,High Similarity,4.762728987,Neutral,5.933175223,Somewhat arousing,4.346376616,0.892261803,6.651768956,6.462218717,Positive,A
+2040_B_H,212E.jpg,Lure,Retrieval,High Similarity,4.762728987,Neutral,5.933175223,Somewhat arousing,4.346376616,0.907687485,,6.462218717,Positive,A
+2041_A_L,213D.jpg,Baseline Lure,Encoding,Low Similarity,4.537951239,Neutral,5.318080357,Somewhat arousing,3.420898438,0.849060476,5.63375,5.538523065,Neutral,A
+2041_B_L,213E.jpg,Lure,Retrieval,Low Similarity,4.537951239,Neutral,5.318080357,Somewhat arousing,3.420898438,0.935084462,,5.538523065,Neutral,A
+2042_A_L,215D.jpg,Baseline Lure,Encoding,Low Similarity,3.790213449,Neutral,4.455217634,Somewhat arousing,4.923221983,0.780347168,5.692757238,5.343615451,Neutral,B
+2042_B_L,215E.jpg,Lure,Retrieval,Low Similarity,3.790213449,Neutral,4.455217634,Somewhat arousing,4.923221983,0.599360526,,5.343615451,Neutral,B
+2045_A_L,227D.jpg,Baseline Lure,Encoding,Low Similarity,3.976764547,Neutral,5.691550926,Somewhat arousing,3.618467134,0.928093433,5.989675926,5.905452891,Neutral,A
+2045_B_L,227F.jpg,Lure,Retrieval,Low Similarity,3.976764547,Neutral,5.691550926,Somewhat arousing,3.618467134,0.843613207,,5.905452891,Neutral,A
+2046_A_H,229D.jpg,Baseline Lure,Encoding,High Similarity,5.097412109,Neutral,5.604593211,Somewhat arousing,3.558324353,0.849906683,6.369125761,6.140595787,Positive,A
+2046_B_H,229E.jpg,Lure,Retrieval,High Similarity,5.097412109,Neutral,5.604593211,Somewhat arousing,3.558324353,0.83443588,,6.140595787,Positive,A
+2047_A_H,230D.jpg,Baseline Lure,Encoding,High Similarity,4.838867188,Neutral,5.19059806,Not arousing,2.465719289,0.925143957,5.173730023,5.174810948,Neutral,A
+2047_B_H,230E.jpg,Lure,Retrieval,High Similarity,4.838867188,Neutral,5.19059806,Not arousing,2.465719289,0.950947881,,5.174810948,Neutral,A
+2048_A_H,237A.jpg,Baseline Lure,Encoding,High Similarity,5.191894531,Neutral,4.934430804,Not arousing,1.881465517,0.888189316,5.352335426,5.233121376,Neutral,A
+2048_B_H,237B.jpg,Lure,Retrieval,High Similarity,5.191894531,Neutral,4.934430804,Not arousing,1.881465517,0.887362361,,5.233121376,Neutral,A
+2050_A_H,245A.jpg,Baseline Lure,Encoding,High Similarity,4.964355469,Neutral,5.144042969,Somewhat arousing,3.357152478,0.825085342,5.310712827,5.256353192,Neutral,A
+2050_B_H,245B.jpg,Lure,Retrieval,High Similarity,4.964355469,Neutral,5.144042969,Somewhat arousing,3.357152478,0.912496328,,5.256353192,Neutral,A
+2051_A_H,250A.jpg,Baseline Lure,Encoding,High Similarity,4.719970703,Neutral,5.966448103,Somewhat arousing,4.282731681,0.757531345,6.322212158,6.195176592,Positive,B
+2051_B_H,250B.jpg,Lure,Retrieval,High Similarity,4.719970703,Neutral,5.966448103,Somewhat arousing,4.282731681,0.691029549,,6.195176592,Positive,B
+2052_A_H,253A.jpg,Baseline Lure,Encoding,High Similarity,4.766845703,Neutral,4.497171336,Somewhat arousing,3.096174569,0.875766098,5.260059932,5.055476262,Neutral,B
+2052_B_H,253B.jpg,Lure,Retrieval,High Similarity,4.766845703,Neutral,4.497171336,Somewhat arousing,3.096174569,0.868898273,,5.055476262,Neutral,B
+2053_A_H,254A.jpg,Baseline Lure,Encoding,High Similarity,4.824951172,Neutral,5.331054688,Somewhat arousing,3.780105065,0.828269124,5.796850548,5.665327318,Neutral,B
+2053_B_H,254B.jpg,Lure,Retrieval,High Similarity,4.824951172,Neutral,5.331054688,Somewhat arousing,3.780105065,0.733738542,,5.665327318,Neutral,B
+2054_A_H,266A.jpg,Baseline Lure,Encoding,High Similarity,4.947602371,Neutral,5.129983836,Not arousing,2.765355603,0.729615629,5.490813079,5.3977991,Neutral,B
+2054_B_H,266B.jpg,Lure,Retrieval,High Similarity,4.947602371,Neutral,5.129983836,Not arousing,2.765355603,0.695467949,,5.3977991,Neutral,B
+2055_A_H,30020d.jpg,Baseline Lure,Encoding,High Similarity,4.925265067,Neutral,5.796419271,Somewhat arousing,3.610177176,0.839913726,5.717370624,5.740394502,Neutral,B
+2055_B_H,30020e.jpg,Lure,Retrieval,High Similarity,4.925265067,Neutral,5.796419271,Somewhat arousing,3.610177176,0.764348626,,5.740394502,Neutral,B
+2060_A_L,329D.jpg,Baseline Lure,Encoding,Low Similarity,4.041503906,Neutral,4.228153935,Somewhat arousing,4.196996228,0.921943367,5.257043651,4.969666281,Neutral,B
+2060_B_L,329F.jpg,Lure,Retrieval,Low Similarity,4.041503906,Neutral,4.228153935,Somewhat arousing,4.196996228,0.929428935,,4.969666281,Neutral,B
+3004_A_H,106D.jpg,Baseline Lure,Encoding,High Similarity,4.635742188,Positive,6.418574892,Somewhat arousing,4.101074219,0.826504529,6.723554033,6.627339159,Positive,A
+3004_B_H,106E.jpg,Lure,Retrieval,High Similarity,4.635742188,Positive,6.418574892,Somewhat arousing,4.101074219,0.739787221,,6.627339159,Positive,A
+3005_A_L,107D.jpg,Baseline Lure,Encoding,Low Similarity,4.249565972,Positive,6.64969308,Somewhat arousing,4.454135237,0.92084837,6.623592342,6.623904497,Positive,A
+3005_B_L,107E.jpg,Lure,Retrieval,Low Similarity,4.249565972,Positive,6.64969308,Somewhat arousing,4.454135237,0.855608761,,6.623904497,Positive,A
+3006_A_H,108D.jpg,Baseline Lure,Encoding,High Similarity,5.155657087,Positive,7.483956473,Somewhat arousing,4.894935345,0.715188861,7.146291474,7.227919901,Positive,A
+3006_B_H,108E.jpg,Lure,Retrieval,High Similarity,5.155657087,Positive,7.483956473,Somewhat arousing,4.894935345,0.818519115,,7.227919901,Positive,A
+3008_A_L,111D.jpg,Baseline Lure,Encoding,Low Similarity,4.146240234,Positive,7.154364224,Somewhat arousing,4.905374461,0.772066116,7.0929414,7.100149823,Positive,B
+3008_B_L,111E.jpg,Lure,Retrieval,Low Similarity,4.146240234,Positive,7.154364224,Somewhat arousing,4.905374461,0.818061411,,7.100149823,Positive,B
+3009_A_L,112D.jpg,Baseline Lure,Encoding,Low Similarity,3.832128906,Positive,6.947265625,Somewhat arousing,5.174568966,0.751875401,7.327163101,7.199861524,Positive,B
+3009_B_L,112E.jpg,Lure,Retrieval,Low Similarity,3.832128906,Positive,6.947265625,Somewhat arousing,5.174568966,0.71113193,,7.199861524,Positive,B
+3010_A_L,113D.jpg,Baseline Lure,Encoding,Low Similarity,4.182347791,Positive,7.116446659,Somewhat arousing,5.555967134,0.613787949,7.573677702,7.415560731,Positive,A
+3010_B_L,113E.jpg,Lure,Retrieval,Low Similarity,4.182347791,Positive,7.116446659,Somewhat arousing,5.555967134,0.539696693,,7.415560731,Positive,A
+3013_A_H,120D.jpg,Baseline Lure,Encoding,High Similarity,4.955179149,Positive,7.352572737,Somewhat arousing,5.491985453,0.805095255,6.808528349,6.959351629,Positive,A
+3013_B_H,120E.jpg,Lure,Retrieval,High Similarity,4.955179149,Positive,7.352572737,Somewhat arousing,5.491985453,0.873477697,,6.959351629,Positive,A
+3017_A_L,125A.jpg,Baseline Lure,Encoding,Low Similarity,4.472790948,Positive,6.225080819,Somewhat arousing,4.614762931,0.863538682,6.861556869,6.671608383,Positive,A
+3017_B_L,125B.jpg,Lure,Retrieval,Low Similarity,4.472790948,Positive,6.225080819,Somewhat arousing,4.614762931,0.779415548,,6.671608383,Positive,A
+3018_A_H,126D.jpg,Baseline Lure,Encoding,High Similarity,5.31659146,Positive,7.136247306,Somewhat arousing,5.869349888,0.891959012,6.679161776,6.809606481,Positive,B
+3018_B_H,126E.jpg,Lure,Retrieval,High Similarity,5.31659146,Positive,7.136247306,Somewhat arousing,5.869349888,0.885347545,,6.809606481,Positive,B
+3019_A_H,127D.jpg,Baseline Lure,Encoding,High Similarity,5.325683594,Positive,7.43713831,Very arousing,6.156115302,0.919035614,7.476249035,7.466554077,Positive,B
+3019_B_H,127E.jpg,Lure,Retrieval,High Similarity,5.325683594,Positive,7.43713831,Very arousing,6.156115302,0.87395674,,7.466554077,Positive,B
+3020_A_H,131A.jpg,Baseline Lure,Encoding,High Similarity,5.135498047,Positive,6.751751078,Somewhat arousing,4.467739763,0.688218594,6.352283842,6.467011761,Positive,A
+3020_B_H,131B.jpg,Lure,Retrieval,High Similarity,5.135498047,Positive,6.751751078,Somewhat arousing,4.467739763,0.726811469,,6.467011761,Positive,A
+3021_A_L,132D.jpg,Baseline Lure,Encoding,Low Similarity,3.908708845,Positive,6.217773438,Somewhat arousing,4.942079741,0.746396303,6.45462963,6.383943039,Positive,A
+3021_B_L,132E.jpg,Lure,Retrieval,Low Similarity,3.908708845,Positive,6.217773438,Somewhat arousing,4.942079741,0.725739539,,6.383943039,Positive,A
+3023_A_L,135A.jpg,Baseline Lure,Encoding,Low Similarity,4.416259766,Positive,7.273370151,Somewhat arousing,4.786166487,0.956063151,6.99928653,7.068346855,Positive,B
+3023_B_L,135B.jpg,Lure,Retrieval,Low Similarity,4.416259766,Positive,7.273370151,Somewhat arousing,4.786166487,0.912338734,,7.068346855,Positive,B
+3024_A_H,136A.jpg,Baseline Lure,Encoding,High Similarity,5.176926185,Positive,7.010371767,Somewhat arousing,5.242456897,0.837529063,7.339444444,7.245258451,Positive,B
+3024_B_H,136B.jpg,Lure,Retrieval,High Similarity,5.176926185,Positive,7.010371767,Somewhat arousing,5.242456897,0.827107131,,7.245258451,Positive,B
+3026_A_L,142A.jpg,Baseline Lure,Encoding,Low Similarity,3.997558594,Positive,6.25,Somewhat arousing,4.56795528,0.833552301,6.344284188,6.30823206,Positive,B
+3026_B_L,142B.jpg,Lure,Retrieval,Low Similarity,3.997558594,Positive,6.25,Somewhat arousing,4.56795528,0.83570236,,6.30823206,Positive,B
+3027_A_L,144A.jpg,Baseline Lure,Encoding,Low Similarity,4.393554688,Positive,6.420355903,Somewhat arousing,4.362540409,0.620443463,6.165500992,6.233987475,Positive,A
+3027_B_L,144B.jpg,Lure,Retrieval,Low Similarity,4.393554688,Positive,6.420355903,Somewhat arousing,4.362540409,0.593620777,,6.233987475,Positive,A
+3028_A_H,162A.jpg,Baseline Lure,Encoding,High Similarity,5.077417834,Positive,6.948814655,Very arousing,6.027276401,0.924390495,6.808018956,6.824836723,Positive,A
+3028_B_H,162B.jpg,Lure,Retrieval,High Similarity,5.077417834,Positive,6.948814655,Very arousing,6.027276401,0.927807987,,6.824836723,Positive,A
+3031_A_H,222E.jpg,Baseline Lure,Encoding,High Similarity,5.017308728,Positive,6.078197338,Somewhat arousing,4.181034483,0.761815667,6.126980634,6.070177802,Positive,B
+3031_B_H,222D.jpg,Lure,Retrieval,High Similarity,5.017308728,Positive,6.078197338,Somewhat arousing,4.181034483,0.769293487,,6.070177802,Positive,B
+3038_A_L,30011d.jpg,Baseline Lure,Encoding,Low Similarity,4.539460776,Positive,6.294318836,Somewhat arousing,4.007899693,0.861536086,6.581104542,6.496434477,Positive,B
+3038_B_L,30011e.jpg,Lure,Retrieval,Low Similarity,4.539460776,Positive,6.294318836,Somewhat arousing,4.007899693,0.74361819,,6.496434477,Positive,B
+3040_A_H,30014d.jpg,Baseline Lure,Encoding,High Similarity,5.130405971,Positive,6.831923243,Somewhat arousing,4.480189732,0.709515691,7.125784817,7.038191463,Positive,B
+3040_B_H,30014e.jpg,Lure,Retrieval,High Similarity,5.130405971,Positive,6.831923243,Somewhat arousing,4.480189732,0.742424488,,7.038191463,Positive,B
+3041_A_H,30015d.jpg,Baseline Lure,Encoding,High Similarity,4.645449309,Positive,7.186096191,Somewhat arousing,4.956133161,0.892700434,7.25804711,7.236326078,Positive,B
+3041_B_H,30015e.jpg,Lure,Retrieval,High Similarity,4.645449309,Positive,7.186096191,Somewhat arousing,4.956133161,0.871027231,,7.236326078,Positive,B
+3044_A_H,30021d.jpg,Baseline Lure,Encoding,High Similarity,5.023007723,Positive,7.194574453,Somewhat arousing,4.776454381,0.789256811,7.439477238,7.365768632,Positive,B
+3044_B_H,30021e.jpg,Lure,Retrieval,High Similarity,5.023007723,Positive,7.194574453,Somewhat arousing,4.776454381,0.782087266,,7.365768632,Positive,B
+3053_A_L,30033d.jpg,Baseline Lure,Encoding,Low Similarity,4.394497575,Positive,6.554513114,Somewhat arousing,4.200683594,0.838141441,7.04260706,6.892424307,Positive,B
+3053_B_L,30033e.jpg,Lure,Retrieval,Low Similarity,4.394497575,Positive,6.554513114,Somewhat arousing,4.200683594,0.855108023,,6.892424307,Positive,B
+3059_A_H,30046d.jpg,Baseline Lure,Encoding,High Similarity,5.05179051,Positive,6.611502511,Somewhat arousing,4.714869908,0.909264207,6.492056697,6.528459231,Positive,B
+3059_B_H,30046e.jpg,Lure,Retrieval,High Similarity,5.05179051,Positive,6.611502511,Somewhat arousing,4.714869908,0.924366474,,6.528459231,Positive,B
+40010a.jpg,40010a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.704467773,Somewhat arousing,5.408778599,0.965,,,,B
+3098_D_X,60023a.jpg,Foil,Retrieval,Foil,NA,Positive,7.029053859,Somewhat arousing,4.962890625,0.669215322,,7.029053859,Positive,A
+1099_D_X,40026a.jpg,Foil,Retrieval,Foil,NA,Negative,3.710780552,Somewhat arousing,4.09589495,0.848877966,,3.710780552,Negative,A
+2093_D_X,20005a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.447352818,Not arousing,2.79283796,0.84712708,,5.447352818,Neutral,A
+2091_D_X,50030a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.252334449,Somewhat arousing,3.065769741,0.839953184,,5.252334449,Neutral,A
+2098_D_X,50025a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.956168039,Not arousing,2.444232431,0.809531093,,4.956168039,Neutral,A
+2092_D_X,50015a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.820708525,Not arousing,2.163801483,0.528045654,,4.820708525,Neutral,A
+1096_D_X,40020a.jpg,Foil,Retrieval,Foil,NA,Negative,2.944304435,Very arousing,6.130684989,0.725916982,,2.944304435,Negative,A
+3095_D_X,60005a.jpg,Foil,Retrieval,Foil,NA,Positive,6.651971726,Somewhat arousing,3.959952218,0.874812722,,6.651971726,Positive,A
+3092_D_X,60028a.jpg,Foil,Retrieval,Foil,NA,Positive,6.823582241,Somewhat arousing,4.435834612,0.940656602,,6.823582241,Positive,A
+1091_D_X,10005a.jpg,Foil,Retrieval,Foil,NA,Negative,3.152901786,Somewhat arousing,5.952296666,0.647415578,,3.152901786,Negative,A
+2099_D_X,50038a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.170671736,Somewhat arousing,3.807846702,0.873118401,,4.170671736,Neutral,A
+1093_D_X,40007a.jpg,Foil,Retrieval,Foil,NA,Negative,3.456383209,Somewhat arousing,4.902151925,0.832850397,,3.456383209,Negative,A
+1100_D_X,40028a.jpg,Foil,Retrieval,Foil,NA,Negative,3.762627808,Somewhat arousing,3.768746512,0.79528892,,3.762627808,Negative,A
+2100_D_X,50033a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.982673891,Not arousing,2.383292062,0.802037954,,4.982673891,Neutral,A
+1094_D_X,40009d.jpg,Foil,Retrieval,Foil,NA,Negative,1.939426123,Very arousing,6.637939453,0.959214032,,1.939426123,Negative,A
+3109_D_X,422.jpg,Foil,Retrieval,Foil,NA,Positive,6.842739763,Somewhat arousing,5.946457435,0.862857044,,6.822454637,Positive,A
+2103_D_X,20004a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.336146763,Somewhat arousing,3.506879534,0.891594827,,5.336146763,Neutral,A
+2102_D_X,50036a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.769757952,Not arousing,2.139892578,0.930923581,,4.769757952,Neutral,A
+3105_D_X,60021a.jpg,Foil,Retrieval,Foil,NA,Positive,6.789611535,Somewhat arousing,4.652010729,0.738172114,,6.789611535,Positive,A
+2105_D_X,10042a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.752564818,Somewhat arousing,4.951576901,0.750786364,,4.752564818,Neutral,A
+2096_D_X,40003a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.622270857,Somewhat arousing,3.449244908,0.790835202,,4.622270857,Neutral,A
+3094_D_X,60014a.jpg,Foil,Retrieval,Foil,NA,Positive,6.919903274,Somewhat arousing,5.186959403,0.876268923,,6.919903274,Positive,A
+1090_D_X,10003a.jpg,Foil,Retrieval,Foil,NA,Negative,2.785818917,Somewhat arousing,4.43182373,0.84233427,,2.785818917,Negative,B
+1092_D_X,10011a.jpg,Foil,Retrieval,Foil,NA,Negative,2.690578497,Somewhat arousing,4.801078269,0.752750039,,2.690578497,Negative,B
+1095_D_X,40018a.jpg,Foil,Retrieval,Foil,NA,Negative,3.332382272,Somewhat arousing,5.676365444,0.783070028,,3.332382272,Negative,B
+1097_D_X,40021a.jpg,Foil,Retrieval,Foil,NA,Negative,3.132128456,Somewhat arousing,4.489467076,0.82389468,,3.132128456,Negative,B
+1098_D_X,40025a.jpg,Foil,Retrieval,Foil,NA,Negative,3.351060268,Somewhat arousing,4.193584389,0.843593538,,3.351060268,Negative,B
+1101_D_X,40030a.jpg,Foil,Retrieval,Foil,NA,Negative,3.114946057,Somewhat arousing,4.769315236,0.890670598,,3.114946057,Negative,B
+1102_D_X,40032a.jpg,Foil,Retrieval,Foil,NA,Negative,2.621822797,Somewhat arousing,5.60094146,0.801000834,,2.621822797,Negative,B
+1103_D_X,40038d.jpg,Foil,Retrieval,Foil,NA,Negative,2.48815918,Somewhat arousing,5.950552804,0.858566463,,2.48815918,Negative,A
+1104_D_X,40040d.jpg,Foil,Retrieval,Foil,NA,Negative,2.760188652,Somewhat arousing,5.504220145,0.800247788,,2.760188652,Negative,A
+1105_D_X,40041a.jpg,Foil,Retrieval,Foil,NA,Negative,2.798242188,Somewhat arousing,4.83177839,0.858138919,,2.798242188,Negative,B
+1106_D_X,40045d.jpg,Foil,Retrieval,Foil,NA,Negative,2.012425014,Very arousing,6.42452567,0.958367288,,2.012425014,Negative,A
+1108_D_X,617.jpg,Foil,Retrieval,Foil,NA,Negative,2.422817888,Somewhat arousing,5.721174569,0.850491107,,2.465755208,Negative,A
+1111_D_X,622.jpg,Foil,Retrieval,Foil,NA,Negative,2.551081731,Somewhat arousing,5.834186422,0.78279233,,2.592230903,Negative,A
+1113_D_X,624.jpg,Foil,Retrieval,Foil,NA,Negative,2.892508371,Somewhat arousing,5.469962284,0.766712546,,2.91096444,Negative,A
+1116_D_X,628.jpg,Foil,Retrieval,Foil,NA,Negative,2.697939116,Somewhat arousing,5.982354526,0.908731997,,2.721396169,Negative,A
+1117_D_X,629.jpg,Foil,Retrieval,Foil,NA,Negative,3.396484375,Somewhat arousing,5.00718471,0.777467489,,3.421134159,Negative,A
+1118_D_X,643.jpg,Foil,Retrieval,Foil,NA,Negative,1.856074892,Very arousing,6.640894397,0.835992038,,1.836504536,Negative,B
+1119_D_X,645.jpg,Foil,Retrieval,Foil,NA,Negative,2.978166853,Somewhat arousing,5.028623384,0.834013343,,3.011853448,Negative,A
+2094_D_X,20008a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.285030242,Not arousing,2.367579869,0.705131352,,5.285030242,Neutral,B
+2095_D_X,10004a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.215266777,Somewhat arousing,4.56854248,0.915400743,,4.215266777,Neutral,B
+2101_D_X,50006a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.582554408,Not arousing,2.694205429,0.928555131,,5.582554408,Neutral,B
+2104_D_X,50014a.jpg,Foil,Retrieval,Foil,NA,Neutral,4.74152363,Not arousing,2.421735491,0.760717034,,4.74152363,Neutral,B
+2108_D_X,515.jpg,Foil,Retrieval,Foil,NA,Neutral,5.667766703,Not arousing,2.853650323,0.900460482,,5.64547631,Neutral,A
+2110_D_X,517.jpg,Foil,Retrieval,Foil,NA,Neutral,4.672154018,Not arousing,2.53205819,0.876102328,,4.700195313,Neutral,A
+2111_D_X,518.jpg,Foil,Retrieval,Foil,NA,Neutral,5.684640067,Somewhat arousing,3.519463901,0.727671385,,5.568033854,Neutral,A
+2113_D_X,521.jpg,Foil,Retrieval,Foil,NA,Neutral,5.262625558,Not arousing,2.979980469,0.858218193,,5.318684896,Neutral,A
+2114_D_X,540.jpg,Foil,Retrieval,Foil,NA,Neutral,4.053780692,Somewhat arousing,4.22811153,0.72617799,,4.08674569,Neutral,B
+2118_D_X,603.jpg,Foil,Retrieval,Foil,NA,Neutral,4.821213942,Somewhat arousing,4.194975754,0.816262245,,4.810836227,Neutral,A
+3091_D_X,60012a.jpg,Foil,Retrieval,Foil,NA,Positive,6.231780134,Somewhat arousing,4.186061314,0.708893061,,6.231780134,Positive,B
+3093_D_X,50041a.jpg,Foil,Retrieval,Foil,NA,Positive,6.022748675,Somewhat arousing,4.021972656,0.684619725,,6.022748675,Positive,B
+3096_D_X,30016a.jpg,Foil,Retrieval,Foil,NA,Positive,7.19390841,Somewhat arousing,5.058359735,0.778461516,,7.19390841,Positive,B
+3097_D_X,30002a.jpg,Foil,Retrieval,Foil,NA,Positive,7.086042132,Somewhat arousing,5.242353167,0.868094385,,7.086042132,Positive,B
+3099_D_X,60024a.jpg,Foil,Retrieval,Foil,NA,Positive,6.996786794,Somewhat arousing,4.819083078,0.877170682,,6.996786794,Positive,B
+3101_D_X,30009a.jpg,Foil,Retrieval,Foil,NA,Positive,7.466430664,Somewhat arousing,5.316730271,0.576015234,,7.466430664,Positive,B
+3102_D_X,60044a.jpg,Foil,Retrieval,Foil,NA,Positive,6.711129325,Somewhat arousing,4.302307129,0.800299942,,6.711129325,Positive,B
+3103_D_X,60036a.jpg,Foil,Retrieval,Foil,NA,Positive,6.868071057,Somewhat arousing,4.713700677,0.776754022,,6.868071057,Positive,B
+3104_D_X,60047a.jpg,Foil,Retrieval,Foil,NA,Positive,7.102678571,Somewhat arousing,4.55304827,0.804237187,,7.102678571,Positive,B
+3106_D_X,415.jpg,Foil,Retrieval,Foil,NA,Positive,7.428946659,Somewhat arousing,5.775525323,0.859355211,,7.420299899,Positive,A
+3111_D_X,437.jpg,Foil,Retrieval,Foil,NA,Positive,6.848397091,Somewhat arousing,4.348397091,0.834959388,,6.824911794,Positive,A
+3112_D_X,438.jpg,Foil,Retrieval,Foil,NA,Positive,6.490099677,Somewhat arousing,3.886045259,0.887831151,,6.461693548,Positive,A
+3113_D_X,439.jpg,Foil,Retrieval,Foil,NA,Positive,6.512324892,Somewhat arousing,4.167131696,0.888213515,,6.498550907,Positive,A
+3114_D_X,440.jpg,Foil,Retrieval,Foil,NA,Positive,7.070649246,Somewhat arousing,4.685816272,0.871848702,,6.87468498,Positive,A
+3115_D_X,441.jpg,Foil,Retrieval,Foil,NA,Positive,7.556152344,Somewhat arousing,4.910762392,0.735724628,,7.493164063,Positive,A
+3116_D_X,505.jpg,Foil,Retrieval,Foil,NA,Positive,6.172548491,Somewhat arousing,4.053205819,0.695219398,,6.147618448,Positive,A
+3117_D_X,R449.jpg,Foil,Retrieval,Foil,NA,Positive,6.262796336,Somewhat arousing,3.715988685,0.861652076,,6.284967238,Positive,A
+2120_D_X,R550.jpg,Foil,Retrieval,Foil,NA,Neutral,5.643229167,Somewhat arousing,3.65705819,0.778069913,,5.658272879,Neutral,B
+2115_D_X,541.jpg,Foil,Retrieval,Foil,NA,Neutral,4.900660022,Somewhat arousing,3.606883082,0.797136247,,4.904296875,Neutral,B
+3100_D_X,60010d.jpg,Foil,Retrieval,Foil,NA,Positive,6.947806222,Somewhat arousing,4.683764761,0.773436844,,6.947806222,Positive,B
+1112_D_X,623.jpg,Foil,Retrieval,Foil,NA,Negative,2.282841435,Very arousing,6.17342403,0.612942457,,2.308384487,Negative,B
+2109_D_X,516.jpg,Foil,Retrieval,Foil,NA,Neutral,5.630580357,Somewhat arousing,3.355132004,0.532299519,,5.643554688,Neutral,B
+1107_D_X,616.jpg,Foil,Retrieval,Foil,NA,Negative,2.537667411,Very arousing,6.005185884,0.654332817,,2.552532328,Negative,B
+3108_D_X,421.jpg,Foil,Retrieval,Foil,NA,Positive,6.820851293,Somewhat arousing,5.162984914,0.758823276,,6.782447077,Positive,B
+2112_D_X,520.jpg,Foil,Retrieval,Foil,NA,Neutral,4.84846444,Somewhat arousing,3.354121767,0.613497376,,4.786731351,Neutral,B
+1109_D_X,619.jpg,Foil,Retrieval,Foil,NA,Negative,2.527413504,Somewhat arousing,5.138873922,0.857611537,,2.561489763,Negative,B
+2106_D_X,513.jpg,Foil,Retrieval,Foil,NA,Neutral,5.385561343,Not arousing,2.61637931,0.871455431,,5.352572737,Neutral,B
+3118_D_X,R450.jpg,Foil,Retrieval,Foil,NA,Positive,7.098563058,Somewhat arousing,4.798626078,0.882842779,,7.044596354,Positive,B
+2116_D_X,542.jpg,Foil,Retrieval,Foil,NA,Neutral,4.923060826,Somewhat arousing,3.297077047,0.890485644,,4.939520474,Neutral,B
+3120_D_X,417.jpg,Foil,Retrieval,Foil,NA,Positive,6.662688079,Somewhat arousing,4.19921875,0.797,,6.630859375,Positive,B
+2097_D_X,60041a.jpg,Foil,Retrieval,Foil,NA,Neutral,5.63203845,Somewhat arousing,3.06880406,0.605308175,,5.63203845,Neutral,B
+2107_D_X,514.jpg,Foil,Retrieval,Foil,NA,Neutral,5.078461746,Not arousing,2.826171875,0.720631301,,5.114982359,Neutral,B
+1114_D_X,625.jpg,Foil,Retrieval,Foil,NA,Negative,3.56515067,Somewhat arousing,4.753636853,0.668664694,,3.614291487,Negative,B
+1115_D_X,627.jpg,Foil,Retrieval,Foil,NA,Negative,2.869068287,Somewhat arousing,5.833310884,0.512123287,,2.992606027,Negative,B
+2119_D_X,R549.jpg,Foil,Retrieval,Foil,NA,Neutral,4.971454327,Somewhat arousing,3.722795759,0.830898046,,4.972149884,Neutral,B
+1110_D_X,620.jpg,Foil,Retrieval,Foil,NA,Negative,2.723733836,Somewhat arousing,5.725552263,0.781426907,,2.800970262,Negative,B
+3119_D_X,R548.jpg,Foil,Retrieval,Foil,NA,Positive,6.141567888,Somewhat arousing,3.686355065,0.789143741,,6.137044271,Positive,B
+1083_C_X,612.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.797921317,Somewhat arousing,5.489964978,0.813795626,3.35522241,3.210589856,Negative,B
+10014a.jpg,10014a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.321113551,Somewhat arousing,5.475230415,0.717,,,,B
+30003a.jpg,30003a.jpg,Foil,Retrieval,Foil,NA,Positive,7.500378024,Somewhat arousing,5.633858817,0.847,,,,A
+3078_C_X,403.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.587755927,Somewhat arousing,4.802128233,0.7845245,6.856843171,6.785228588,Positive,A
+1063_C_X,10013a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.353839646,Somewhat arousing,4.34249442,0.701105058,3.76344246,3.610731957,Negative,A
+3087_C_X,414.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.557112069,Somewhat arousing,3.984711746,0.772141516,6.844677511,6.76299555,Positive,A
+2063_C_X,20009a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.175925259,Not arousing,2.398010254,0.864497125,5.403235918,5.331466528,Neutral,A
+2070_C_X,434.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.631626674,Somewhat arousing,4.056361607,0.559032857,6.176882045,6.019095008,Positive,A
+1066_C_X,40006a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.291078629,Somewhat arousing,5.946184431,0.846529484,2.294857357,2.295264089,Negative,A
+1064_C_X,40002a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.4265553,Somewhat arousing,4.972333636,0.68294847,3.686217949,3.602368552,Negative,A
+3061_C_X,60019d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.14047199,Somewhat arousing,3.686288016,0.823014975,6.390343468,6.320717612,Positive,A
+3066_C_X,60003d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.681478615,Somewhat arousing,4.840401786,0.601455033,7.105691629,6.982045976,Positive,A
+1061_C_X,10002a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.253376116,Somewhat arousing,5.913450461,0.829996705,2.28101539,2.272187488,Negative,A
+3079_C_X,404.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.722935268,Somewhat arousing,4.294181034,0.933984399,6.83766172,6.777992664,Positive,A
+3072_C_X,30017a.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.51657006,Somewhat arousing,4.405011858,0.823043287,7.086898148,6.930454282,Positive,A
+3086_C_X,413.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.061220366,Very arousing,6.110250539,0.863617241,7.24413476,7.186992939,Positive,A
+1075_C_X,40034a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.006616709,Somewhat arousing,4.5269601,0.914448261,2.828679591,2.87434614,Negative,A
+2078_C_X,503.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.696358817,Somewhat arousing,4.122171336,0.879232228,4.944214665,4.887808294,Neutral,A
+2069_C_X,410.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.995083513,Somewhat arousing,3.948343211,0.664813995,6.809285848,6.576818743,Positive,A
+3088_C_X,R446.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.064732143,Somewhat arousing,4.511021205,0.869343638,6.930344407,6.959239314,Positive,A
+1062_C_X,10010a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.205761238,Somewhat arousing,4.558350734,0.745841742,3.60323748,3.48796937,Negative,A
+2071_C_X,50007a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.690429688,Not arousing,2.457092285,0.727003455,5.173097613,5.029160156,Neutral,A
+1072_C_X,40022a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.608590262,Somewhat arousing,5.571550642,0.730077982,2.478955518,2.515369307,Negative,A
+1071_C_X,40019a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.314657738,Somewhat arousing,5.468686996,0.787465572,2.616906299,2.527129499,Negative,A
+2062_C_X,20003a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.665214574,Not arousing,2.207458496,0.852302313,4.913435571,4.840381118,Neutral,A
+2073_C_X,50031a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.669652158,Somewhat arousing,3.057270665,0.703798831,4.445529514,4.51056431,Neutral,A
+1065_C_X,40005a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.520638602,Somewhat arousing,4.400591169,0.835222721,3.314854452,3.377569622,Negative,B
+1068_C_X,40012a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.079637097,Somewhat arousing,4.407420075, 0.827,3.035502214,3.049184028,Negative,A
+1069_C_X,40015a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.235203334,Somewhat arousing,4.408473424,0.833,3.062054242,3.114325666,Negative,A
+1070_C_X,40017a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.97780878,Somewhat arousing,4.809439523,0.761126518,2.586591514,2.700538291,Negative,B
+1074_C_X,40033a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.504019601,Somewhat arousing,5.192827497,0.725555897,2.611228416,2.576886397,Negative,B
+1076_C_X,40035a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,1.699645996,Very arousing,7.212794713,0.795440257,1.697152778,1.682224106,Negative,B
+1077_C_X,40044a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.420528017,Somewhat arousing,4.963979695,0.711397767,3.449231902,3.440469664,Negative,B
+1079_C_X,604.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.941545759,Somewhat arousing,5.863415948,0.820397675,3.611848364,3.431495949,Negative,A
+1089_C_X,642.jpg,Target,Encoding + Retrieval,Target,NA,Negative,4.306929977,Somewhat arousing,4.650727371,0.624755085,4.299355159,4.308292588,Neutral,A
+1090_C_X,528.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.969545718,Somewhat arousing,4.91951778,0.912394404,5.327010779,4.938071089,Neutral,A
+2064_C_X,20010a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.645368304,Not arousing,2.288033622,0.79746592,4.525542237,4.562730859,Neutral,B
+2066_C_X,20012a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.993456581,Not arousing,2.244271415,0.793943465,5.049586187,5.037556646,Neutral,B
+2068_C_X,40016a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.008640553,Somewhat arousing,3.742989676,0.676143765,4.818466354,4.863522513,Neutral,B
+2074_C_X,50037a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.259216309,Not arousing,2.451808385,0.871473134,4.19828869,4.216272604,Neutral,B
+2075_C_X,50042d.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.478106399,Somewhat arousing,3.002249581,0.725565135,5.616295983,5.576433603,Neutral,A
+2076_C_X,50048d.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.486841158,Somewhat arousing,3.095073085,0.683149397,5.802987062,5.708751264,Neutral,A
+2079_C_X,504.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.434738685,Somewhat arousing,3.59610722,0.849404454,5.515577435,5.484153813,Neutral,A
+2084_C_X,511.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.362413194,Somewhat arousing,4.900996767,0.731711209,6.685023148,6.331799488,Positive,B
+2085_C_X,512.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.672084263,Somewhat arousing,3.474003233,0.883442938,6.075778904,5.972789797,Neutral,A
+2087_C_X,525.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.638093171,Not arousing,2.398572198,0.80897665,4.636742863,4.640056424,Neutral,A
+2088_C_X,530.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.770688657,Somewhat arousing,3.413927802,0.78438127,4.888839984,4.861586788,Neutral,A
+2089_C_X,60011a.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.851976526,Somewhat arousing,3.858660017,0.93865639,6.338422755,6.195909062,Positive,B
+3062_C_X,60004d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.289815848,Somewhat arousing,3.818890409,0.854897857,6.197417237,6.224329454,Positive,A
+3063_C_X,60032d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.277703773,Somewhat arousing,5.542302707,0.683895946,7.255442943,7.262898614,Positive,B
+3069_C_X,50018d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.106017785,Somewhat arousing,3.838030134,0.738324881,6.379528986,6.300891792,Positive,B
+3070_C_X,60033d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.125470843,Somewhat arousing,4.963980539,0.871042848,7.280785407,7.232532338,Positive,B
+3071_C_X,60046d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.053152902,Somewhat arousing,5.730355399,0.769547164,6.987636074,7.006535159,Positive,B
+3074_C_X,30026d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.745679724,Somewhat arousing,4.508231027,0.889201164,6.248338294,6.400987643,Positive,A
+3075_C_X,30050d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.066307244,Somewhat arousing,4.824436733,0.786975205,7.283338026,7.219262271,Positive,A
+3077_C_X,402.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.524784483,Somewhat arousing,4.609172953,0.873306274,7.056728604,6.899096888,Positive,B
+3080_C_X,405.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.635304418,Somewhat arousing,4.6640625,0.894946158,6.974027778,6.873476769,Positive,B
+3081_C_X,406.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.852774784,Somewhat arousing,4.648774246,0.846902072,6.667523148,6.716013558,Positive,A
+3082_C_X,407.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.922433036,Somewhat arousing,4.907394935,0.725267947,6.652519707,6.720264924,Positive,A
+3084_C_X,411.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.924164871,Somewhat arousing,5.54923222,0.794702053,6.551250951,6.671509832,Positive,A
+3085_C_X,412.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.227678571,Somewhat arousing,3.486816406,0.877352655,6.558171296,6.459519676,Positive,A
+2086_C_X,523.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.995959052,Not arousing,2.223599138,0.900662243,5.209023021,5.146909975,Neutral,B
+2067_C_X,20014d.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.491350446,Not arousing,2.35984303,0.790959895,5.910700313,5.783250844,Neutral,B
+1087_C_X,639.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.604391164,Somewhat arousing,5.947332974,0.857476771,2.561319444,2.591046627,Negative,B
+2083_C_X,509.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,4.851422991,Somewhat arousing,3.037176724,0.891399086,5.091562024,5.021564438,Neutral,B
+3065_C_X,50034d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.166645665,Somewhat arousing,3.922807966,0.696387887,6.640416667,6.501860996,Positive,B
+1081_C_X,609.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.245689655,Somewhat arousing,5.584792565,0.651872933,2.51900463,2.448544974,Negative,B
+1080_C_X,607.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.878502155,Somewhat arousing,4.778758082,0.795629799,3.172357253,3.097632847,Negative,B
+3083_C_X,408.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.254394531,Somewhat arousing,5.807198661,0.585854352,7.618657407,7.509494874,Positive,B
+3073_C_X,60029d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.707380022,Somewhat arousing,4.762538365,0.775476754,6.767713026,6.749499289,Positive,B
+1085_C_X,630.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.286675347,Somewhat arousing,4.469288793,0.89894253,2.698423032,2.87577474,Negative,B
+2082_C_X,508.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.618024554,Somewhat arousing,3.609375,0.904681325,5.814664193,5.776014277,Neutral,B
+3076_C_X,401.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.245959052,Somewhat arousing,4.58077567,0.939478278,6.354398148,6.324972157,Positive,B
+3090_C_X,R448.jpg,Target,Encoding + Retrieval,Target,NA,Positive,6.95783944,Somewhat arousing,4.670662716,0.909157097,7.141188063,7.081774589,Positive,B
+1086_C_X,631.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.705549569,Somewhat arousing,4.459186422,0.929,3.726085681,3.732995565,Negative,B
+3064_C_X,60043d.jpg,Target,Encoding + Retrieval,Target,NA,Positive,7.034002976,Somewhat arousing,5.520865304,0.911006212,6.878748994,6.925795655,Positive,B
+2077_C_X,502.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.723702567,Somewhat arousing,3.697602371,0.53589344,6.058183183,5.969284188,Neutral,B
+2072_C_X,50024d.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.384830729,Not arousing,2.621800014,0.861342609,5.671296296,5.587041718,Neutral,B
+2090_C_X,R546.jpg,Target,Encoding + Retrieval,Target,NA,Neutral,5.636160714,Somewhat arousing,3.054014009,0.787293315,5.914472415,5.828359203,Neutral,B
+1088_C_X,640.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.285762392,Somewhat arousing,5.028623384,0.864285767,3.493666862,3.444534688,Negative,B
+427X.jpg,427.jpg,Foil,Retrieval,Foil,NA,Positive,6.40625,Somewhat arousing,5.194773707,0.461,,,,B
+601x.jpg,601.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.127092634,Somewhat arousing,5.118871228,0.895,,,,A
+353A.jpg,353A.jpg,Target,Encoding + Retrieval,Target,NA,Negative,2.905901228,Somewhat arousing,5.089285714,0.81,,,,B
+354a.jpg,354a.jpg,Target,Encoding + Retrieval,Target,NA,Negative,3.670758929,Somewhat arousing,4.604862608,0.736,,,,A
+534X.jpg,,Foil,Retrieval,Foil,,Neutral,,,,,,,,B

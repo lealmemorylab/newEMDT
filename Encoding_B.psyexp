@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="2023.1.2">
+  <Settings>
+    <Param val="use prefs" valType="str" updates="None" name="Audio latency priority"/>
+    <Param val="use prefs" valType="str" updates="None" name="Audio lib"/>
+    <Param val="" valType="str" updates="None" name="Completed URL"/>
+    <Param val="auto" valType="str" updates="None" name="Data file delimiter"/>
+    <Param val="u'Encoding B/%s_%s_%s' % (expInfo['Participant ID'], expName, expInfo['date'])" valType="code" updates="None" name="Data filename"/>
+    <Param val="True" valType="bool" updates="None" name="Enable Escape"/>
+    <Param val="" valType="str" updates="None" name="End Message"/>
+    <Param val="{'Participant ID': '', 'Task': ''}" valType="code" updates="None" name="Experiment info"/>
+    <Param val="True" valType="bool" updates="None" name="Force stereo"/>
+    <Param val="True" valType="bool" updates="None" name="Full-screen window"/>
+    <Param val="" valType="str" updates="None" name="HTML path"/>
+    <Param val="" valType="str" updates="None" name="Incomplete URL"/>
+    <Param val="testMonitor" valType="str" updates="None" name="Monitor"/>
+    <Param val="[]" valType="list" updates="None" name="Resources"/>
+    <Param val="False" valType="bool" updates="None" name="Save csv file"/>
+    <Param val="False" valType="bool" updates="None" name="Save excel file"/>
+    <Param val="False" valType="bool" updates="None" name="Save hdf5 file"/>
+    <Param val="True" valType="bool" updates="None" name="Save log file"/>
+    <Param val="True" valType="bool" updates="None" name="Save psydat file"/>
+    <Param val="True" valType="bool" updates="None" name="Save wide csv file"/>
+    <Param val="1" valType="num" updates="None" name="Screen"/>
+    <Param val="True" valType="bool" updates="None" name="Show info dlg"/>
+    <Param val="False" valType="bool" updates="None" name="Show mouse"/>
+    <Param val="height" valType="str" updates="None" name="Units"/>
+    <Param val="" valType="str" updates="None" name="Use version"/>
+    <Param val="[2240, 1260]" valType="list" updates="None" name="Window size (pixels)"/>
+    <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+    <Param val="" valType="str" updates="None" name="backgroundImg"/>
+    <Param val="avg" valType="str" updates="None" name="blendMode"/>
+    <Param val="$[-1,-1,-1]" valType="color" updates="None" name="color"/>
+    <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+    <Param val="100.1.1.1" valType="str" updates="None" name="elAddress"/>
+    <Param val="FILTER_LEVEL_2" valType="str" updates="None" name="elDataFiltering"/>
+    <Param val="FILTER_LEVEL_OFF" valType="str" updates="None" name="elLiveFiltering"/>
+    <Param val="EYELINK 1000 DESKTOP" valType="str" updates="None" name="elModel"/>
+    <Param val="ELLIPSE_FIT" valType="str" updates="None" name="elPupilAlgorithm"/>
+    <Param val="PUPIL_AREA" valType="str" updates="None" name="elPupilMeasure"/>
+    <Param val="1000" valType="num" updates="None" name="elSampleRate"/>
+    <Param val="False" valType="bool" updates="None" name="elSimMode"/>
+    <Param val="RIGHT_EYE" valType="str" updates="None" name="elTrackEyes"/>
+    <Param val="PUPIL_CR_TRACKING" valType="str" updates="None" name="elTrackingMode"/>
+    <Param val="Encoding B" valType="str" updates="None" name="expName"/>
+    <Param val="on Sync" valType="str" updates="None" name="exportHTML"/>
+    <Param val="None" valType="str" updates="None" name="eyetracker"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="gpAddress"/>
+    <Param val="4242" valType="num" updates="None" name="gpPort"/>
+    <Param val="ioHub" valType="str" updates="None" name="keyboardBackend"/>
+    <Param val="exp" valType="code" updates="None" name="logging level"/>
+    <Param val="('MIDDLE_BUTTON',)" valType="list" updates="None" name="mgBlink"/>
+    <Param val="CONTINUOUS" valType="str" updates="None" name="mgMove"/>
+    <Param val="0.5" valType="num" updates="None" name="mgSaccade"/>
+    <Param val="0.6" valType="num" updates="None" name="plConfidenceThreshold"/>
+    <Param val="True" valType="bool" updates="None" name="plPupilCaptureRecordingEnabled"/>
+    <Param val="" valType="str" updates="None" name="plPupilCaptureRecordingLocation"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="plPupilRemoteAddress"/>
+    <Param val="50020" valType="num" updates="None" name="plPupilRemotePort"/>
+    <Param val="1000" valType="num" updates="None" name="plPupilRemoteTimeoutMs"/>
+    <Param val="False" valType="bool" updates="None" name="plPupillometryOnly"/>
+    <Param val="psychopy_iohub_surface" valType="str" updates="None" name="plSurfaceName"/>
+    <Param val="" valType="str" updates="None" name="tbLicenseFile"/>
+    <Param val="" valType="str" updates="None" name="tbModel"/>
+    <Param val="60" valType="num" updates="None" name="tbSampleRate"/>
+    <Param val="" valType="str" updates="None" name="tbSerialNo"/>
+    <Param val="pyglet" valType="str" updates="None" name="winBackend"/>
+  </Settings>
+  <Routines>
+    <Routine name="instructions">
+      <TextComponent name="Instructions" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="Instructions" valType="code" updates="None" name="name"/>
+        <Param val="1" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="[0, 0]" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="You will see a series of images on the screen and asked to rate each image as negative, neutral, or positive using the slider scale.&amp;#10;&amp;#10;The image will be on screen for 3 seconds&amp;#10;&amp;#10;Make sure that you make your response while the image is still on the screen.&amp;#10;&amp;#10;Press the space bar for examples" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="1.5" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="instructionkey" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="instructionkey" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="3" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="nothing" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="False" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Examples">
+      <ImageComponent name="example_image" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$Stim1" valType="file" updates="set every frame" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="example_image" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0.05)" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val=".6,.5" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="512" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+      <SliderComponent name="Valence_rating_slider" plugin="None">
+        <Param val="White" valType="color" updates="constant" name="borderColor"/>
+        <Param val="LightGray" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="4" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Blue" valType="color" updates="constant" name="fillColor"/>
+        <Param val="False" valType="bool" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="0" valType="num" updates="constant" name="granularity"/>
+        <Param val="" valType="code" updates="None" name="initVal"/>
+        <Param val="&quot;Negative&quot;,None,None,None,&quot;Neutral&quot;,None,None,None,&quot;Positive&quot;" valType="list" updates="constant" name="labels"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="Valence_rating_slider" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, -0.3)" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="constant" name="readOnly"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(.8, 0.1)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.5" valType="code" updates="None" name="startVal"/>
+        <Param val="condition" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="constant" name="storeHistory"/>
+        <Param val="False" valType="bool" updates="constant" name="storeRating"/>
+        <Param val="False" valType="bool" updates="constant" name="storeRatingTime"/>
+        <Param val="()" valType="list" updates="constant" name="styleTweaks"/>
+        <Param val="rating" valType="str" updates="constant" name="styles"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="(1,2,3,4,5,6,7,8,9)" valType="list" updates="constant" name="ticks"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </SliderComponent>
+    </Routine>
+    <Routine name="Start_Screen">
+      <TextComponent name="start_screen" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.07" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="start_screen" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="The test will now start&amp;#10;&amp;#10;This should take about 10 minutes. &amp;#10;&amp;#10;Any questions?&amp;#10;&amp;#10;Press the space bar to begin" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="nothing" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="False" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="End">
+      <TextComponent name="endtext" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.06" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="endtext" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="END OF PART 1&amp;#10;&amp;#10;Please ring the doorbell to let your experimenter know that you are finished.&amp;#10;&amp;#10;THANK YOU" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_2" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp_2" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="nothing" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="Study">
+      <ImageComponent name="Stimuli" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$Stim" valType="file" updates="set every frame" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="None" valType="str" updates="constant" name="mask"/>
+        <Param val="Stimuli" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, .05)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="3" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+      <SliderComponent name="emotional_valence_slider" plugin="None">
+        <Param val="White" valType="color" updates="constant" name="borderColor"/>
+        <Param val="LightGray" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Blue" valType="color" updates="constant" name="fillColor"/>
+        <Param val="False" valType="bool" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="False" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="0" valType="num" updates="constant" name="granularity"/>
+        <Param val="" valType="code" updates="None" name="initVal"/>
+        <Param val="&quot;Negative&quot;,None,None,None,&quot;Neutral&quot;,None,None,None,&quot;Positive&quot;" valType="list" updates="constant" name="labels"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="emotional_valence_slider" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, -0.3)" valType="list" updates="constant" name="pos"/>
+        <Param val="False" valType="bool" updates="constant" name="readOnly"/>
+        <Param val="False" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(.8, 0.1)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.5" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="3" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="constant" name="storeHistory"/>
+        <Param val="True" valType="bool" updates="constant" name="storeRating"/>
+        <Param val="True" valType="bool" updates="constant" name="storeRatingTime"/>
+        <Param val="()" valType="list" updates="constant" name="styleTweaks"/>
+        <Param val="rating" valType="str" updates="constant" name="styles"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="(1,2,3,4,5,6,7,8,9)" valType="list" updates="constant" name="ticks"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </SliderComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="instructions"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="0:4" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'Stim1': 'EncodingB_Ex1.jpg'}, {'Stim1': 'EncodingB_Ex2.jpg'}, {'Stim1': 'EncodingB_Ex3.jpg'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Example_EncodingB.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="False" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Examples"/>
+    <LoopTerminator name="trials"/>
+    <Routine name="Start_Screen"/>
+    <LoopInitiator loopType="TrialHandler" name="task">
+      <Param name="Selected rows" updates="None" val="0:136" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'Stim': '1001_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1002_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1003_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1014_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1021_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1025_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1027_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1030_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1031_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1032_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1033_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1034_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1035_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1036_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1037_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1038_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1040_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1041_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1042_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1045_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1046_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1048_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1049_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1052_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1053_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1054_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1057_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1058_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1059_A_H', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '1060_A_L', 'Valence': 'Negative', 'Stimtype': 'Baseline Lure'}, {'Stim': '2005_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2007_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2008_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2009_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2010_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2012_A_L', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2013_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2016_A_L', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2023_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2034_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2035_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2036_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2037_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2038_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2039_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2040_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2041_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2042_A_L', 'Valence': 'Neutral ', 'Stimtype': 'Baseline Lure'}, {'Stim': '2044_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2045_A_L', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2046_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2047_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2048_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2050_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2051_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2052_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2053_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2054_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2055_A_H', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '2060_A_L', 'Valence': 'Neutral', 'Stimtype': 'Baseline Lure'}, {'Stim': '3003_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3004_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3005_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3006_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3008_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3009_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3010_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3011_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3013_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3017_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3018_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3019_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3020_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3021_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3022_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3023_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3024_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3026_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3027_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3028_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3029_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3030_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3031_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3038_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3040_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3041_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3043_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3044_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3053_A_L', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '3059_A_H', 'Valence': 'Positive', 'Stimtype': 'Baseline Lure'}, {'Stim': '1068_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1069_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1078_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1079_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1080_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1081_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1082_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1083_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1084_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1085_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1086_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1087_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1088_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1089_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '1090_C_X', 'Valence': 'Negative', 'Stimtype': 'Target'}, {'Stim': '2067_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2072_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2075_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2076_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2077_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2079_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2080_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2081_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2082_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2083_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2085_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2086_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2087_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2088_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '2090_C_X', 'Valence': 'Neutral', 'Stimtype': 'Target'}, {'Stim': '3062_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3064_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3065_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3068_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3073_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3074_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3075_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3076_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3081_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3082_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3083_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3084_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3085_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3089_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}, {'Stim': '3090_C_X', 'Valence': 'Positive', 'Stimtype': 'Target'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Encoding_B.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="task" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Study"/>
+    <LoopTerminator name="task"/>
+    <Routine name="End"/>
+  </Flow>
+</PsychoPy2experiment>
