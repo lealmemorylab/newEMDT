@@ -1,5 +1,5 @@
 # newEMDT
-New emotional mnemonic discrimination task
+New emotional mnemonic discrimination task (A and B versions)
 
 
 Task Overview
@@ -52,3 +52,5 @@ Recognition accuracy, false alarm and lure rejection rates
 Subjective emotional ratings (valence/arousal)
 
 Visual complexity and semantic similarity
+
+Published paper can be found here: https://www.sciencedirect.com/science/article/pii/S1074742726000997
